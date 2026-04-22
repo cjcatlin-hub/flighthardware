@@ -111,8 +111,8 @@ uint8_t const * tud_hid_descriptor_report_cb(uint8_t instance)
 
 char const *string_desc_arr[] = {
     (const char[]){0x09, 0x04}, // 0: English (US)
-    "Chris Controls",           // 1: Manufacturer
-    "Pico Joystick",            // 2: Product
+    "Catlin",           // 1: Manufacturer
+    "Cessna Throtle",            // 2: Product
     "123456",                   // 3: Serial
 };
 
